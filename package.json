@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "https://github.com/wolf-77",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.32"
+  }
+}
